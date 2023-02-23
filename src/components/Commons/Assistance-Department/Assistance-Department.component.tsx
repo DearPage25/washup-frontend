@@ -11,6 +11,7 @@ export const AssistanceDepartment = () => {
         <span>ASISTENCIA POR DEPARTAMENTO</span>
       </div>
       <div>
+        <span>s</span>
         <span className="assistance-department-presents-now">34</span>
         <span className="assistance-department-line-1"></span>
         <span className="assistance-department-presents-original">36</span>
