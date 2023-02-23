@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.assistance-department-container{
+    position: absolute;
+    width: 989px;
+    height: 222px;
+    left: 137px;
+    top: 113px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.assistance-department-title{
+    position: absolute;
+    width: 179px;
+    height: 35.89px;
+    left: 172px;
+    top: 136px;
+
+    font-family: 'Kiona';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    /* or 90% */
+
+    letter-spacing: 0.16px;
+
+    color: #000000;
+}
+
+.assistance-department-presents-now{
+    position: absolute;
+    width: 51px;
+    height: 42px;
+    left: 188px;
+    top: 201px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+
+    color: #000000;
+}
+
+.assistance-department-line-1{
+    position: absolute;
+    width: 80.28px;
+    height: 0px;
+    left: 186px;
+    top: 240px;
+
+    border: 1px solid #808080;
+    transform: rotate(140.56deg);
+}
+
+.assistance-department-line-2{
+    position: absolute;
+    width: 167.03px;
+    height: 0px;
+    left: 196px;
+    top: 278px;
+
+    border: 1px solid #000000;
+}
+
+.assistance-department-presents-original{
+    position: absolute;
+    width: 51px;
+    height: 42px;
+    left: 226px;
+    top: 238.02px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 35px;
+
+    color: #808080;
+
+    transform: rotate(-0.02deg);
+}
+
+.assistance-department-subtitle-presentes{
+    position: absolute;
+    width: 68px;
+    height: 20px;
+    left: 268px;
+    top: 247px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #808080;
+}
+
+.assistance-department-dep-ironing{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 86px;
+    height: 106px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+}
+
+.assistance-department-dep-ironing-quantity{
+    position: absolute;
+    width: 21px;
+    height: 44px;
+    left: 30px;
+    top: 4px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #808080;
+}
+
+.assistance-department-dep-ironing-title{
+    position: absolute;
+    width: 71px;
+    height: 40px;
+    left: 5px;
+    top: 53px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.assistance-department-frame-1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+
+    position: absolute;
+    width: 656px;
+    height: 106px;
+    left: 403px;
+    top: 197px;
+}
+
+.assistance-department-dep-packed{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 86px;
+    height: 106px;
+    left: 114px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+}
+
+.assistance-department-dep-packed-quantity{
+
+    position: absolute;
+    width: 20px;
+    height: 44px;
+    left: 30px;
+    top: 4px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #808080;
+}
+
+.assistance-department-dep-packed-title{
+    position: absolute;
+    width: 71px;
+    height: 40px;
+    left: 5px;
+    top: 53px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.assistance-department-dep-washed{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 86px;
+    height: 106px;
+    left: 228px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+}
+
+.assistance-department-dep-washed-quantity{
+    position: absolute;
+    width: 20px;
+    height: 44px;
+    left: 30px;
+    top: 4px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #808080;
+}
+
+.assistance-department-dep-washed-title{
+    position: absolute;
+    width: 49px;
+    height: 40px;
+    left: 5px;
+    top: 53px;
+
+    font-family: 'Gidolinya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}
